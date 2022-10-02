@@ -27,3 +27,17 @@ text-transform: capitalize;
     font-size: 25px;
     }
     
+    .footer{
+        width: 100%;
+        background-color: yellow;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        line-height: 2;
+        }
+        
+        
+        .modal-dialog{
+        width: 80%;
+        height: 80%;
+        }
+        
